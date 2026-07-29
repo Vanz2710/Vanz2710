@@ -1,13 +1,17 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=22&duration=3500&pause=1000&color=C778DD&center=true&vCenter=true&width=480&height=40&lines=full-stack+developer;laravel+%C2%B7+vue+3+%C2%B7+mysql;scalable%2C+user-focused+web+apps" alt="Full-stack developer" />
+<img src="avatar-ascii.svg" width="300" alt="Vance Tindoc" />
+
+<br /><br />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=22&duration=3500&pause=1000&color=98B88D&center=true&vCenter=true&width=480&height=40&lines=full-stack+developer;laravel+%C2%B7+vue+3+%C2%B7+react;scalable%2C+user-focused+web+apps" alt="Full-stack developer" />
 
 <samp>Vance Tindoc &nbsp;·&nbsp; Kuala Lumpur, Malaysia</samp>
 
 <br /><br />
 
-<a href="https://vance-portfolio.vercel.app/"><img src="https://img.shields.io/badge/portfolio-282C33?style=flat-square&labelColor=282C33&color=282C33&logo=vercel&logoColor=C778DD" /></a>
-<a href="https://www.linkedin.com/in/vance-tindoc-58b258308/"><img src="https://img.shields.io/badge/linkedin-282C33?style=flat-square&labelColor=282C33&color=282C33&logo=linkedin&logoColor=C778DD" /></a>
+<a href="https://vance-portfolio.vercel.app/"><img src="https://img.shields.io/badge/portfolio-0D1117?style=flat-square&labelColor=0D1117&color=0D1117&logo=vercel&logoColor=98B88D" /></a>
+<a href="https://www.linkedin.com/in/vance-tindoc-58b258308/"><img src="https://img.shields.io/badge/linkedin-0D1117?style=flat-square&labelColor=0D1117&color=0D1117&logo=linkedin&logoColor=98B88D" /></a>
 
 </div>
 
@@ -17,15 +21,13 @@
 
 <samp>
 
-Full-stack developer building scalable, user-focused web applications
-with Laravel, Vue 3 and MySQL. Based in Kuala Lumpur, currently at
-Bluedale Group of Companies, where most of my time goes into a CRM
-that real staff open every morning.
+Full-stack developer building scalable, user-focused web applications.
+Based in Kuala Lumpur, currently at Bluedale Group of Companies, where
+most of my time goes into a CRM that real staff open every morning.
 
-That project has taught me more about migrations, permissions and
-edge cases than any assignment did. I care about the layer most
-people skip: a clean data model makes the UI easy, a bad one makes
-it impossible.
+That project has taught me more about migrations, permissions and edge
+cases than any assignment did. I care about the layer most people skip:
+a clean data model makes the UI easy, a bad one makes it impossible.
 
 </samp>
 
@@ -35,10 +37,10 @@ it impossible.
 
 | | |
 | --- | --- |
-| Building | Library CRM v2 — contacts, sales pipeline, forecasting, follow-ups |
+| Building | VR Campus Tour — final-year project, in development |
 | Working at | Bluedale Group of Companies |
 | Studying | BSc Information Technology, HELP University — final year |
-| Learning | Testing discipline, deployment workflows, queue workers |
+| Learning | Unity and XR development, testing discipline, deployment workflows |
 | Open to | Graduate and junior full-stack roles |
 
 <br />
@@ -47,40 +49,89 @@ it impossible.
 
 | Layer | Technology |
 | --- | --- |
-| Backend | Laravel 13, PHP 8.3, Sanctum auth, Spatie RBAC |
-| Frontend | Vue 3 (Composition API), Vue Router, Axios, Chart.js |
+| Backend | Laravel 13, PHP 8.3, Sanctum auth, Spatie RBAC, Node |
+| Frontend | Vue 3 (Composition API), React, TypeScript, Vue Router, Axios |
 | Styling | Tailwind CSS, Blade |
 | Database | MySQL — including multi-connection and legacy read-only setups |
-| Build & tooling | Vite, Composer, npm, Git |
+| XR | Unity, C#, Meta Quest 3 |
 | Also written | Python, JavaScript, HTML |
 
 <div align="center">
 <br />
-<img src="https://skillicons.dev/icons?i=laravel,php,vue,tailwind,mysql,vite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=laravel,php,vue,react,ts,tailwind&theme=dark" />
 <br />
-<img src="https://skillicons.dev/icons?i=js,python,html,git,github,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,unity,cs,python,vite,git&theme=dark" />
 </div>
 
 <br />
 
 ## `<work />`
 
-**[Library CRM v2](https://github.com/Vanz2710/DBM_bluedale)** &nbsp;·&nbsp; <samp>Laravel 13 · Vue 3 · MySQL</samp>
+**VR Campus Tour** &nbsp;·&nbsp; <samp>Unity · Meta Quest 3 · XR · C#</samp> &nbsp;·&nbsp; <img src="https://img.shields.io/badge/in_development-984838?style=flat-square&labelColor=0D1117&color=0D1117" />
 
 <samp>
 
-A multi-user CRM built for Bluedale Group of Companies, covering contacts,
-sales pipeline, forecasting, tasks, follow-ups and marketing operations.
-Laravel API with Sanctum token auth and Spatie role-based permissions
-across three tiers; Vue 3 SPA frontend served from a catch-all route;
-three MySQL connections including two read-only legacy databases.
-Built with Ammar.
+Final-year project — an immersive VR walkthrough that lets prospective
+students explore HELP University's campus and facilities in full 3D.
 
 </samp>
 
 <br />
 
-<samp>More below — pinned repositories.</samp>
+**[MorganaAI](https://github.com/Vanz2710/MorganaAI)** &nbsp;·&nbsp; <samp>Python · Claude · Windows</samp>
+
+<samp>
+
+Voice-first JARVIS-style personal AI assistant for Windows,
+with Claude as the brain.
+
+</samp>
+
+<br />
+
+**[SJSS_CRM_System](https://github.com/Vanz2710/SJSS_CRM_System)** &nbsp;·&nbsp; <samp>TypeScript · React</samp>
+
+<samp>
+
+CRM for managing customers, quotations and project pipelines end to end.
+
+</samp>
+
+<br />
+
+**[KLTG_Web_Upgrade](https://github.com/Vanz2710/KLTG_Web_Upgrade)** &nbsp;·&nbsp; <samp>Web</samp>
+
+<samp>
+
+KL The Guide — a travel discovery platform.
+
+</samp>
+
+<br />
+
+**[Library CRM v2](https://github.com/Vanz2710/DBM_bluedale)** &nbsp;·&nbsp; <samp>Laravel 13 · Vue 3 · MySQL</samp>
+
+<samp>
+
+Multi-user CRM built at Bluedale covering contacts, sales pipeline,
+forecasting, tasks and follow-ups. Laravel API with Sanctum token auth
+and Spatie role-based permissions across three tiers; Vue 3 SPA frontend;
+three MySQL connections including two read-only legacy databases.
+
+</samp>
+
+<br />
+
+## `<listening />`
+
+<div align="center">
+
+<!-- Replace SPOTIFY_URL after setup — see notes -->
+<a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER">
+<img src="SPOTIFY_URL" alt="Spotify now playing" />
+</a>
+
+</div>
 
 <br />
 
