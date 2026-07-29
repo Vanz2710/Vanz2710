@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="avatar-ascii.svg" width="300" alt="Vance Tindoc" />
+<img src="https://raw.githubusercontent.com/Vanz2710/Vanz2710/main/avatar-ascii.png" width="300" alt="Vance Tindoc" />
 
 <br /><br />
 
