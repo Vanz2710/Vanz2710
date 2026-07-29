@@ -126,9 +126,8 @@ three MySQL connections including two read-only legacy databases.
 
 <div align="center">
 
-<!-- Replace SPOTIFY_URL after setup — see notes -->
-<a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER">
-<img src="SPOTIFY_URL" alt="Spotify now playing" />
+<a href="https://open.spotify.com/user/222pgdtoj5lxz65djsrrdl4qi">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=222pgdtoj5lxz65djsrrdl4qi&cover_image=true&theme=default&show_offline=true&background_color=0D1117&bar_color=48A858&interchange=true" alt="Spotify now playing" />
 </a>
 
 </div>
