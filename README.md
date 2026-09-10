@@ -10,8 +10,6 @@
 <a href="https://www.linkedin.com/in/vancetindoc/"><img src="https://img.shields.io/badge/linkedin-0D1117?style=flat-square&labelColor=0D1117&color=0D1117&logo=linkedin&logoColor=98B88D" height="20" /></a>
 &nbsp;
 <a href="mailto:vancetindoc@gmail.com"><img src="https://img.shields.io/badge/email-0D1117?style=flat-square&labelColor=0D1117&color=0D1117&logo=gmail&logoColor=98B88D" height="20" /></a>
-<br /><br />
-<a href="https://open.spotify.com/user/222pgdtoj5lxz65djsrrdl4qi"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=222pgdtoj5lxz65djsrrdl4qi&cover_image=false&theme=compact&show_offline=true&background_color=0D1117&bar_color=48A858&interchange=true" height="30" alt="Spotify" /></a>
 </div>
 
 <br />
@@ -71,6 +69,16 @@ a bad one makes it impossible. Currently open to graduate and junior full-stack 
 | **Learning** | Testing discipline, deployment workflows, queue workers |
 | **Certified in** | Database Programming with SQL · UI/UX Design Fundamentals · IBM AI Fundamentals |
 | **Off-screen** | Basketball, tech communities, open source |
+
+<br />
+
+## `<listening />`
+
+<div align="center">
+<a href="https://open.spotify.com/user/222pgdtoj5lxz65djsrrdl4qi"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=222pgdtoj5lxz65djsrrdl4qi&cover_image=true&theme=novatorem&show_offline=false&background_color=0D1117&bar_color=98B88D&bar_color_cover=false" width="420" alt="Spotify — now playing" /></a>
+<br />
+<samp>what's on while I build</samp>
+</div>
 
 <br />
 
