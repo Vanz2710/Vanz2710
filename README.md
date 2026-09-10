@@ -63,7 +63,7 @@ a bad one makes it impossible. Currently open to graduate and junior full-stack 
 | :-- | :-- |
 | **Open to** | Graduate and junior full-stack roles — Kuala Lumpur or remote |
 | **Recently** | Software Developer Intern, Bluedale Group of Companies |
-| **Studied** | BSc Information Technology, HELP University — CGPA 3.32 |
+| **Studied** | BSc Information Technology, HELP University |
 | **Learning** | Testing discipline, deployment workflows, queue workers |
 | **Certified in** | Database Programming with SQL · UI/UX Design Fundamentals · IBM AI Fundamentals |
 | **Off-screen** | Basketball, tech communities, open source |
