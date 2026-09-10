@@ -77,7 +77,7 @@ a bad one makes it impossible. Currently open to graduate and junior full-stack 
 <div align="center">
 <a href="https://open.spotify.com/user/222pgdtoj5lxz65djsrrdl4qi"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=222pgdtoj5lxz65djsrrdl4qi&cover_image=true&theme=novatorem&show_offline=false&background_color=0D1117&bar_color=98B88D&bar_color_cover=false" width="420" alt="Spotify — now playing" /></a>
 <br />
-<samp>what's on while I build</samp>
+<samp>what I am listening to.</samp>
 </div>
 
 <br />
