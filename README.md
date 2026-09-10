@@ -1,13 +1,17 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/Vanz2710/Vanz2710/main/avatar-ascii.png" width="240" alt="Vance Tindoc" />
+<br /><br />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=3500&pause=1000&color=98B88D&center=true&vCenter=true&width=420&height=30&lines=full-stack+developer;laravel+%C2%B7+vue+3+%C2%B7+mysql+%C2%B7+postgres;scalable%2C+user-focused+web+apps" alt="Full-stack developer" />
 <br />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=22&duration=3500&pause=1000&color=98B88D&center=true&vCenter=true&width=520&height=40&lines=full-stack+developer;laravel+%C2%B7+vue+3+%C2%B7+mysql+%C2%B7+postgres;scalable%2C+user-focused+web+apps" alt="Full-stack developer" />
 <samp>Vance Tindoc &nbsp;·&nbsp; Kuala Lumpur, Malaysia</samp>
 <br /><br />
-<a href="https://vance-portfolio.vercel.app/"><img src="https://img.shields.io/badge/portfolio-0D1117?style=flat-square&labelColor=0D1117&color=0D1117&logo=vercel&logoColor=98B88D" /></a>
-<a href="https://www.linkedin.com/in/vancetindoc/"><img src="https://img.shields.io/badge/linkedin-0D1117?style=flat-square&labelColor=0D1117&color=0D1117&logo=linkedin&logoColor=98B88D" /></a>
-<a href="mailto:vancetindoc@gmail.com"><img src="https://img.shields.io/badge/email-0D1117?style=flat-square&labelColor=0D1117&color=0D1117&logo=gmail&logoColor=98B88D" /></a>
-<a href="https://open.spotify.com/user/222pgdtoj5lxz65djsrrdl4qi"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=222pgdtoj5lxz65djsrrdl4qi&cover_image=false&theme=compact&show_offline=true&background_color=0D1117&bar_color=48A858&interchange=true" height="28" alt="Spotify" /></a>
+<a href="https://vance-portfolio.vercel.app/"><img src="https://img.shields.io/badge/portfolio-0D1117?style=flat-square&labelColor=0D1117&color=0D1117&logo=vercel&logoColor=98B88D" height="20" /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/vancetindoc/"><img src="https://img.shields.io/badge/linkedin-0D1117?style=flat-square&labelColor=0D1117&color=0D1117&logo=linkedin&logoColor=98B88D" height="20" /></a>
+&nbsp;
+<a href="mailto:vancetindoc@gmail.com"><img src="https://img.shields.io/badge/email-0D1117?style=flat-square&labelColor=0D1117&color=0D1117&logo=gmail&logoColor=98B88D" height="20" /></a>
+<br /><br />
+<a href="https://open.spotify.com/user/222pgdtoj5lxz65djsrrdl4qi"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=222pgdtoj5lxz65djsrrdl4qi&cover_image=false&theme=compact&show_offline=true&background_color=0D1117&bar_color=48A858&interchange=true" height="30" alt="Spotify" /></a>
 </div>
 
 <br />
@@ -63,7 +67,7 @@ a bad one makes it impossible. Currently open to graduate and junior full-stack 
 | :-- | :-- |
 | **Open to** | Graduate and junior full-stack roles — Kuala Lumpur or remote |
 | **Recently** | Software Developer Intern, Bluedale Group of Companies |
-| **Studied** | Bachelor's Degree in Information Technology, HELP University |
+| **Studied** | BSc Information Technology, HELP University |
 | **Learning** | Testing discipline, deployment workflows, queue workers |
 | **Certified in** | Database Programming with SQL · UI/UX Design Fundamentals · IBM AI Fundamentals |
 | **Off-screen** | Basketball, tech communities, open source |
